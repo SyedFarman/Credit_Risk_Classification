@@ -8,11 +8,11 @@ The data contains 77,536 observations with 8 columns, including a target column 
 
 The stages of the machine learning process are as follows:
 
-1.	        Data pre-processing and cleaning.
-2.	        Splitting the data into training and testing sets.
-3.	        Building and training a Logistic Regression model on the original imbalanced data.
-4.	        Building and training a Logistic Regression model on the oversampled data.
-5.	        Evaluating the models' performance and comparing their results.
+1.	       Data pre-processing and cleaning.
+2.	       Splitting the data into training and testing sets.
+3.	       Building and training a Logistic Regression model on the original imbalanced data.
+4.	       Building and training a Logistic Regression model on the oversampled data.
+5.	       Evaluating the models' performance and comparing their results.
 
 Logistic Regression models are used in this analysis, and oversampling using the RandomOverSampler 
 technique is applied to balance the target classes.
@@ -42,4 +42,7 @@ Overall, both models performed well in predicting high-risk loans, but the logis
 
 However, the choice of model may depend on the specific problem and business requirements of the user, and it is essential to consider the consequences of making errors in the prediction of both healthy and high-risk loans.
 
+## References:
 
+https://scikit-learn.org/stable/modules/model_evaluation.html
+https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html
