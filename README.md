@@ -21,7 +21,7 @@ technique is applied to balance the target classes.
 ### •	Machine Learning Model 1: Logistic Regression on Original Data
         -	Balanced Accuracy Score: 0.952
         
-      	        Precision and Recall Scores:
+      	-       Precision and Recall Scores:
         -	Healthy Loans (0): precision = 1.00, recall = 0.99, f1-score = 1.00
         -	High-Risk Loans (1): precision = 0.85, recall = 0.91, f1-score = 0.88
 
