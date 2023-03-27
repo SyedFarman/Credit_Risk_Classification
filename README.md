@@ -18,17 +18,17 @@ Logistic Regression models are used in this analysis, and oversampling using the
 technique is applied to balance the target classes.
 
 ## Results
-•	Machine Learning Model 1: Logistic Regression on Original Data
-    •	Balanced Accuracy Score: 0.952
-    •	Precision and Recall Scores:
-    •	Healthy Loans (0): precision = 1.00, recall = 0.99, f1-score = 1.00
-    •	High-Risk Loans (1): precision = 0.85, recall = 0.91, f1-score = 0.88
+### •	Machine Learning Model 1: Logistic Regression on Original Data
+        -	Balanced Accuracy Score: 0.952
+        -	Precision and Recall Scores:
+        -	Healthy Loans (0): precision = 1.00, recall = 0.99, f1-score = 1.00
+        -	High-Risk Loans (1): precision = 0.85, recall = 0.91, f1-score = 0.88
 
-•	Machine Learning Model 2: Logistic Regression on Oversampled Data
-•	Balanced Accuracy Score: 0.993
-•	Precision and Recall Scores:
-•	Healthy Loans (0): precision = 1.00, recall = 0.99, f1-score = 1.00
-•	High-Risk Loans (1): precision = 0.84, recall = 0.99, f1-score = 0.91
+### •	Machine Learning Model 2: Logistic Regression on Oversampled Data
+        -	Balanced Accuracy Score: 0.993
+        -	Precision and Recall Scores:
+        -	Healthy Loans (0): precision = 1.00, recall = 0.99, f1-score = 1.00
+        -	High-Risk Loans (1): precision = 0.84, recall = 0.99, f1-score = 0.91
 
 ## Summary
 
