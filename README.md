@@ -42,3 +42,4 @@ Overall, both models performed well in predicting high-risk loans, but the logis
 
 However, the choice of model may depend on the specific problem and business requirements of the user, and it is essential to consider the consequences of making errors in the prediction of both healthy and high-risk loans.
 
+
